@@ -1,0 +1,16 @@
+The dish milkshake contains chocolate which is not something we have.
+The dish milkshake contains ice cream which is not something we have.
+      Dish Name:     steak      eggs     bacon      milk    butter     syrup     flour       oil   vanilla  potatoes     ranch   ketchup    g.beef      buns   pickles   lettuce   mustard      mayo  bb.patty    tomato
+ steak and eggs:         1         1         0         0         0         0         0         0         0         0         0         0         0         0         0         0         0         0         0         0
+breakfast plate:         0         1         1         1         1         1         1         1         1         1         0         1         0         0         0         0         0         0         0         0
+  pancake stack:         0         1         0         1         1         1         1         1         1         0         0         0         0         0         0         0         0         0         0         0
+      hamburger:         0         0         0         0         0         0         0         0         0         0         0         1         1         1         1         1         1         1         0         1
+  veggie burger:         0         0         0         0         0         0         0         0         0         0         0         1         0         1         1         1         1         1         1         1
+   steak burger:         1         0         0         0         0         0         0         0         0         0         0         1         0         1         1         1         1         1         0         1
+     egg burger:         0         1         0         0         0         0         0         0         0         0         0         1         0         1         1         1         1         1         0         1
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   At Least One:         1         1         1         1         1         1         1         1         1         1         0         1         1         1         1         1         1         1         1         1
+  More Than One:         1         1         0         1         1         1         1         1         1         0         0         1         0         1         1         1         1         1         0         1
+    Exactly One:         0         0         1         0         0         0         0         0         0         1         0         0         1         0         0         0         0         0         1         0
+       Not Used:         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0
+

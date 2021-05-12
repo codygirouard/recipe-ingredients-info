@@ -1,0 +1,9 @@
+steak,eggs,bacon,milk,butter,syrup,flour,oil,vanilla,potatoes,ranch,ketchup,g.beef,buns,pickles,lettuce,mustard,mayo,bb.patty,tomato
+steak and eggs:steak,eggs
+breakfast plate:eggs,bacon,flour,oil,milk,eggs,vanilla,syrup,potatoes,ketchup,butter
+pancake stack:flour,oil,milk,eggs,vanilla,syrup,butter
+hamburger:buns,g.beef,pickles,lettuce,mustard,mayo,ketchup,tomato
+veggie burger:buns,bb.patty,pickles,lettuce,mustard,mayo,ketchup,tomato
+steak burger:buns,steak,pickles,lettuce,mustard,mayo,ketchup,tomato
+egg burger:buns,eggs,pickles,lettuce,mustard,mayo,ketchup,tomato
+milkshake:milk,chocolate,ice cream

@@ -1,0 +1,9 @@
+beans,tomatoes,fish,eggs,milk,flour,sugar,yeast,cheese,salt,oil,onions,lemon,veg stock,carrots,lettuce,croutons,vanilla
+cheese pizza:eggs,milk,flour,yeast,sugar,tomatoes,cheese
+baked fish:fish,lemon
+fried fish:fish,lemon,oil
+beans and fish:beans,fish,lemon
+bean soup:beans,onions,veg stock,carrots
+salad:tomatoes,carrots,lettuce,croutons,cheese
+cake:eggs,milk,flour,sugar,oil,vanilla
+strawberry cake:eggs,milk,flour,sugar,strawberries,oil,vanilla

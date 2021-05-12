@@ -1,0 +1,7 @@
+tomatoes,carrots,lettuce,croutons,cheese,fish,olive oil,potatoes,salt,tortillas,g.beef,onions,eggs,milk,flour,sugar,vanilla,oil
+salad:tomatoes,carrots,lettuce,cheese
+fish and chips:fish,oil,potatoes,salt
+b.b. burger:black beans,buns,pickles,lettuce,tomatoes,onions,cheese
+tacos:tortillas,g.beef,cheese,tomatoes,onions
+cake:eggs,milk,flour,sugar,oil,vanilla
+soup and salad:tomatoes,olive oil,onions,tomatoes,carrots,lettuce,cheese
